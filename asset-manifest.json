@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/limitlist/static/css/main.c1af7547.chunk.css",
-    "main.js": "/limitlist/static/js/main.4c614ab3.chunk.js",
-    "main.js.map": "/limitlist/static/js/main.4c614ab3.chunk.js.map",
-    "runtime-main.js": "/limitlist/static/js/runtime-main.96394ddd.js",
-    "runtime-main.js.map": "/limitlist/static/js/runtime-main.96394ddd.js.map",
+    "main.css": "/limitlist/static/css/main.94bab356.chunk.css",
+    "main.js": "/limitlist/static/js/main.66bb9927.chunk.js",
+    "main.js.map": "/limitlist/static/js/main.66bb9927.chunk.js.map",
+    "runtime-main.js": "/limitlist/static/js/runtime-main.af8082eb.js",
+    "runtime-main.js.map": "/limitlist/static/js/runtime-main.af8082eb.js.map",
     "static/css/2.019c8cf4.chunk.css": "/limitlist/static/css/2.019c8cf4.chunk.css",
-    "static/js/2.0b7b4dc2.chunk.js": "/limitlist/static/js/2.0b7b4dc2.chunk.js",
-    "static/js/2.0b7b4dc2.chunk.js.map": "/limitlist/static/js/2.0b7b4dc2.chunk.js.map",
+    "static/js/2.255461db.chunk.js": "/limitlist/static/js/2.255461db.chunk.js",
+    "static/js/2.255461db.chunk.js.map": "/limitlist/static/js/2.255461db.chunk.js.map",
     "index.html": "/limitlist/index.html",
-    "precache-manifest.88476503c4b665df995e5ff2e32f0f02.js": "/limitlist/precache-manifest.88476503c4b665df995e5ff2e32f0f02.js",
+    "precache-manifest.3a587bb3674112c487a091d72d5c2757.js": "/limitlist/precache-manifest.3a587bb3674112c487a091d72d5c2757.js",
     "service-worker.js": "/limitlist/service-worker.js",
     "static/css/2.019c8cf4.chunk.css.map": "/limitlist/static/css/2.019c8cf4.chunk.css.map",
-    "static/css/main.c1af7547.chunk.css.map": "/limitlist/static/css/main.c1af7547.chunk.css.map",
-    "static/js/2.0b7b4dc2.chunk.js.LICENSE": "/limitlist/static/js/2.0b7b4dc2.chunk.js.LICENSE",
+    "static/css/main.94bab356.chunk.css.map": "/limitlist/static/css/main.94bab356.chunk.css.map",
+    "static/js/2.255461db.chunk.js.LICENSE": "/limitlist/static/js/2.255461db.chunk.js.LICENSE",
     "static/media/App.scss": "/limitlist/static/media/fa-solid-900.f6121be5.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.96394ddd.js",
+    "static/js/runtime-main.af8082eb.js",
     "static/css/2.019c8cf4.chunk.css",
-    "static/js/2.0b7b4dc2.chunk.js",
-    "static/css/main.c1af7547.chunk.css",
-    "static/js/main.4c614ab3.chunk.js"
+    "static/js/2.255461db.chunk.js",
+    "static/css/main.94bab356.chunk.css",
+    "static/js/main.66bb9927.chunk.js"
   ]
 }
